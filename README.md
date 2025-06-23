@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 Second-year Computer Science Engineering (CSE) student 📱 Passionate about App Development 
+👨‍💻 Second-year Computer Science Engineering (CSE) student 
+📱 Passionate about App Development 
 🧠 Learning JavaScript, React, and Data Structures & Algorithms (DSA) to strengthen my core skills
 🚀 Focused on building real-world projects and solving problems on LeetCode
 🥇 Winner of Innovastra Hackathon – 1st Prize for Farm Saathi, an agriculture-based solution
