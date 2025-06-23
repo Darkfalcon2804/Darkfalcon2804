@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Second-year Computer Science Engineering (CSE) student 
+👨‍💻 Second-year Computer Science Engineering (CSE) student <br>
 📱 Passionate about App Development 
 🧠 Learning JavaScript, React, and Data Structures & Algorithms (DSA) to strengthen my core skills
 🚀 Focused on building real-world projects and solving problems on LeetCode
