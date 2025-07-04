@@ -1,10 +1,10 @@
 # 💫 About Me:
 👨‍💻 Second-year Computer Science Engineering (CSE) student <br>
-📱 Passionate about App Development <br>
-🧠 Learning JavaScript, React, and Data Structures & Algorithms (DSA) to strengthen my core skills  <br>
+🧠 Learning JavaScript, React, and Data Structures & Algorithms (DSA) to strengthen my core skills <br>
 🚀 Focused on building real-world projects and solving problems on LeetCode <br>
-🥇 Winner of Innovastra Hackathon – 1st Prize for Farm Saathi, an agriculture-based solution <br>
+🥇 Winner of Arya Innovastra Hackathon – 1st Prize for Farm Saathi, an agriculture-based solution <br>
 🏆 Top 10 Finalist at Code Red 4.0 Hackathon – AI project for early disease detection in rural areas <br>
+🥈 2nd Runner Up at House of Hack Hackathon – built a LinkedIn profile enhancer project <br>
 💡 Always curious, always coding — working towards becoming a skilled developer <br>
 
 # 💻 Tech Stack:
